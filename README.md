@@ -1,5 +1,5 @@
 <!-- ===== HEADER ===== -->
-<h1 align="center">Hi, I'm <strong>Aryaman</strong> 👋</h1>
+<h1 align="center">Hi, I'm <strong>Aryaman Prasad</strong> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=AI%2FML+Enthusiast;Backend+Developer;LLM+%26+Agentic+Systems+Learner;Aspiring+Software+Developer" />
@@ -7,18 +7,18 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 - Passionate **AI/ML enthusiast** exploring deep learning, LLMs & intelligent systems  
-- Building backend systems with **FastAPI, Django, Flask**  
-- Exploring **LangChain, LangGraph, HuggingFace, RAG pipelines & agentic workflows**  
-- Growing strong in **Data Structures & Algorithms**  
-- Love working on meaningful real-world projects  
+- Building backend systems using **FastAPI, Django, Flask**  
+- Working with **LangChain, LangGraph, RAG pipelines, and agentic workflows**  
+- Strengthening **Data Structures & Algorithms**  
+- Love building impactful projects and experimenting with new technologies  
 
 ---
 
-# 🧠 AI / ML Tech Stack  
+# AI / ML Tech Stack  
 
-### 🔹 Core ML & DL Libraries  
+### Core ML & DL Libraries  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" title="PyTorch" />
@@ -26,35 +26,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" title="Scikit-Learn" />
 </p>
 
-### 🔹 Data Processing & Scientific Computing  
+### Data Processing  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas" />
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" />
 </p>
 
-### 🔹 Visualization Tools  
+### Visualization  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" title="Matplotlib" />
 </p>
 
 ---
 
-# 🤖 LLM & Agentic Frameworks  
-> Devicon doesn’t provide official icons for these tools → so we use **professional badges** that always load.
-
+# LLM & Agentic Frameworks  
 <p>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Transformers-FF9E0F?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/RAG%20Pipelines-0078D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vector%20DB%3A%20FAISS-EE4C2C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Serving%3A%20FastAPI-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS%20Vector%20DB-EE4C2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Serving%20with%20FastAPI-009688?style=for-the-badge" />
 </p>
 
 ---
 
-# ⚙️ Backend & API Frameworks  
+# Backend & API Frameworks  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" title="Flask" />
@@ -63,7 +62,7 @@
 
 ---
 
-# 💻 Programming Languages  
+# Programming Languages  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++" />
@@ -72,7 +71,7 @@
 
 ---
 
-# 🛠 DevOps & Tools  
+# DevOps & Tools  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="55" title="Kubernetes" />
@@ -82,25 +81,15 @@
 
 ---
 
-# 📊 GitHub Stats  
-### ⭐ Fixed version using the new working API (old one is deprecated)
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-godkingjay.vercel.app/api?username=AP14112&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=AP14112&layout=compact&theme=tokyonight" />
-</p>
+## Current Focus  
+- Exploring **LLM development** & intelligent agent workflows  
+- Backend/API development with **FastAPI & Django**  
+- Improving **DSA** fundamentals  
+- Working on real-world AI/ML applications  
 
 ---
 
-# 🔥 Current Focus  
-- Deep-diving into **LLM development** & agentic AI  
-- Building ML-powered backend services  
-- Strengthening **DSA** fundamentals  
-- Improving real-world problem-solving through projects  
-
----
-
-# 🌐 Connect with Me  
+## Connect with Me  
 <p>
   <a href="https://www.linkedin.com/in/aryaman-prasad/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -111,4 +100,3 @@
 </p>
 
 ---
-
